@@ -1,6 +1,8 @@
 *Just for fun!*
 
 This is my second side project to practice html and css.
+I made it only for mobile size display.
+
 Again, not for real operation!
 
 ![youtube clone1](https://github.com/Kwak-MJ/Youtube_mobileSize_first/assets/112554342/ff6027de-b08b-4824-bc42-56caa922634c)
